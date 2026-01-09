@@ -1,45 +1,25 @@
-Análise de Dados e Indicadores para Sistemas de Gestã0
+# Sistema de Análise de Dados e Indicadores
 
-Este projeto tem como objetivo o desenvolvimento de um módulo de análise de dados e geração de indicadores, pensado para integração com sistemas de gestão empresarial. A proposta é transformar dados operacionais em informações estratégicas, auxiliando gestores na tomada de decisão por meio de relatórios e indicadores claros e organizados.
+Projeto em fase de planejamento com foco no desenvolvimento de um módulo de análise de dados integrado a sistemas de gestão.
+A proposta é organizar dados operacionais e gerar indicadores e relatórios para apoio à tomada de decisão.
 
-Atualmente, o projeto encontra-se em fase de planejamento e definição de escopo, sendo desenvolvido como parte do processo de aprendizado e evolução técnica.
+🚧 Projeto ainda não iniciado (fase de planejamento).
 
-🎯 Objetivos do Projeto
+## Tecnologias previstas
 
-Organizar e estruturar dados provenientes de sistemas de gestão
+- C#
+- SQL Server
+- SQL
+- Power BI / Gráficos integrados
 
-Criar indicadores relevantes para acompanhamento de desempenho
+## Funcionalidades planejadas
 
-Desenvolver relatórios analíticos voltados ao contexto empresarial
+- Organização e consolidação de dados
+- Geração de indicadores básicos
+- Relatórios analíticos
+- Integração com sistema de gestão
 
-Aplicar conceitos de análise de dados, modelagem e boas práticas
+## Status
 
-Integrar dados operacionais a uma visão estratégica do negócio
-
-🧠 Problema que o Projeto Busca Resolver
-
-Muitos sistemas de gestão concentram-se apenas no registro de dados, oferecendo pouca ou nenhuma análise sobre as informações armazenadas. Este projeto surge para preencher essa lacuna, permitindo que dados brutos sejam convertidos em indicadores úteis, facilitando o entendimento do cenário da empresa.
-
-🛠️ Tecnologias Previstas
-
-(Podem ser ajustadas conforme a evolução do projeto)
-
-Linguagem: C# (integração com sistemas desktop)
-
-Banco de Dados: SQL Server
-
-Consultas e análises: SQL
-
-Visualização de dados: Power BI ou gráficos integrados ao sistema
-
-Organização e versionamento: Git / GitHub
-
-🔗 Integração com Outros Projetos
-
-Este módulo foi idealizado para futura integração com o Sistema de Gestão de Funcionários, permitindo, por exemplo:
-
-Análise de dados de colaboradores
-
-Indicadores de crescimento, movimentações e histórico
-
-Relatórios para apoio à gestão interna
+## Projeto em planejamento.
+## O desenvolvimento será iniciado futuramente.
