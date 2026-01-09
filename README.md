@@ -21,5 +21,5 @@ A proposta é organizar dados operacionais e gerar indicadores e relatórios par
 
 ## Status
 
-## Projeto em planejamento.
-## O desenvolvimento será iniciado futuramente.
+Projeto em planejamento.
+O desenvolvimento será iniciado futuramente.
